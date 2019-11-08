@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
 	int x, t = 5;
-	printf("i crash system = ");
+	printf("ERROR404 = ");
 	scanf_s("%d", &x);
 	float result;
 	int dob = 0;
